@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Capstone Project</title>
+    </head>
+    
+    <body>
+         style="background-color:lightblue;">
+        <h1>Colleges I am interested in</h1>
+        <table>
+        <tr>
+          <th>Villanova University</th>
+          <th>Columbia University</th>
+          <th>Boston College</th>
+          <th>Syracuse University</th>
+          <th>University of Maryland</th>
+          <th>The College of Saint Rose</th>
+          <th>Clemson University</th>
+          <th>University of Notre Dame</th>
+          <th>Princeton University</th>
+        </tr>
+        <tr>
+          <td>6,865 undergraduates</td>
+          <td>6,245 undergraduates</td>
+          <td>9,370 undergraduates</td>
+          <td></td>
+          <td>Yogurt with granola and berries</td>
+          <td>Fruit smoothie</td>
+          <td>Cereal and Milk</td>
+        </tr>
+        <tr>
+          <td>Go to the lake</td>
+          <td>Play soccer</td>
+          <td>Play board games</td>
+          <td>Watch TV</td>
+          <td>Ride my bike</td>
+          <td>Watch movies</td>
+          <td>Play baseball</td>
+        </tr>
+        <tr>
+          <td>Parents</td>
+          <td>Janice</td>
+          <td>Janice</td>
+          <td>Janice</td>
+          <td>Janice</td>
+          <td>Janice</td>
+          <td>Stevie</td>
+        </tr>
+        <tr>
+          <td>Art Museum</td>
+          <td>Park</td>
+          <td>Game Store</td>
+          <td>Living room</td>
+          <td>Park</td>
+          <td>Mini-Golf Park</td>
+          <td>Amusement Park</td>
+        </tr>
+      </table>
+            
+             
+     
+     
+            <li>Japan</li>
+            <li>Greece</li>
+            <li>Ireland</li>
+            <li>China</li> 
+        </ol>
+    </body>
+    <!DOCTYPE html>
+
+
+	
+	
+	
+</html>
