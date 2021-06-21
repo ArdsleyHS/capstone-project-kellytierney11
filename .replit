@@ -1,12 +1,23 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>My Capstone Project</title>
+        <title>My Favorite Colleges</title>
+		BOOTSTRAP
     </head>
-    
     <body>
-         style="background-color:lightblue;">
-        <h1>Colleges I am interested in</h1>
+         <div class = "container">
+        	<h1>Colleges I am interested in</h1>
+		<p>
+			Today, there are some 5,300 colleges and universities in the United States, everything from beauty schools to Harvard. Many people choose to go to college because you get to choose what you want to study, make your own class schedule, live somewhere other than home. College is wild, and fun, and worldly. You learn about other people's opinions and beliefs, meet interesting weirdos, learn from aged professors who have lifetimes of experience. That being said, here are some of my favorite colleges that I am interested in.
+		</p>
+		<br>
+		<img src = "https://i.ytimg.com/vi/WI_8slDKSOU/maxresdefault.jpg" 
+		width = "750px" height = "400px">
+		<br>
+	
+	
+	
+	
         <table>
         <tr>
           <th>Villanova University</th>
